@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sample Player</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_library">Your library</string>
+
+    <string name="home_recent">Recently added</string>
+    <string name="home_error_title">Couldn\'t load songs</string>
+    <string name="loading">Loading</string>
+
+    <string name="search_label">Search songs, artists, albums</string>
+    <string name="search_clear">Clear search</string>
+    <string name="search_idle_title">Find something to play</string>
+    <string name="search_idle_hint">Type a song, artist or album name.</string>
+    <string name="search_empty_title">Nothing found</string>
+    <string name="search_empty_hint">Check the spelling or try a different word.</string>
+    <string name="search_error_title">Search isn\'t working</string>
+    <string name="search_error_hint">Check your connection and try again.</string>
+    <string name="action_retry">Try again</string>
+
+    <string name="library_empty_title">Your library is empty</string>
+    <string name="library_empty_hint">Create a playlist to start collecting songs.</string>
+
+
+    <string name="player_open">Open player</string>
+    <string name="player_close">Close player</string>
+    <string name="player_play">Play</string>
+    <string name="player_pause">Pause</string>
+    <string name="player_next">Next song</string>
+    <string name="player_previous">Previous song</string>
+    <string name="player_shuffle_on">Shuffle is on</string>
+    <string name="player_shuffle_off">Shuffle is off</string>
+    <string name="player_repeat_off">Repeat is off</string>
+    <string name="player_repeat_all">Repeat all songs</string>
+    <string name="player_repeat_one">Repeat this song</string>
+    <string name="player_error">This song couldn\'t be played.</string>
+    <string name="position_of">%1$s of %2$s</string>
+
+    <string name="auth_title_sign_in">Welcome back</string>
+    <string name="auth_title_sign_up">Create your account</string>
+    <string name="auth_hint_sign_in">Sign in to pick up where you left off.</string>
+    <string name="auth_hint_sign_up">Use an email and a password of at least 8 characters.</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_password_show">Show password</string>
+    <string name="auth_password_hide">Hide password</string>
+    <string name="auth_submit_sign_in">Sign in</string>
+    <string name="auth_submit_sign_up">Create account</string>
+    <string name="auth_switch_to_sign_up">New here? Create an account</string>
+    <string name="auth_switch_to_sign_in">Already have an account? Sign in</string>
+    <string name="auth_err_email_invalid">Enter a valid email address.</string>
+    <string name="auth_err_password_empty">Enter your password.</string>
+    <string name="auth_err_password_short">Use at least 8 characters.</string>
+    <string name="auth_err_invalid_credentials">That email and password don\'t match. Check them and try again.</string>
+    <string name="auth_err_email_taken">An account with this email already exists. Try signing in instead.</string>
+    <string name="auth_err_weak_password">Choose a stronger password that is harder to guess.</string>
+    <string name="auth_err_network">Couldn\'t reach the server. Check your connection and try again.</string>
+    <string name="auth_err_unknown">Something went wrong. Please try again.</string>
+    <string name="auth_confirm_title">Check your email</string>
+    <string name="auth_confirm_body">We sent a link to %1$s. Open it to finish setting up, then come back and sign in.</string>
+    <string name="auth_confirm_back">Back to sign in</string>
+    <string name="home_sign_out">Sign out</string>
+
+    <string name="action_back">Back</string>
+    <string name="action_play">Play</string>
+    <string name="action_shuffle">Shuffle</string>
+
+    <string name="detail_error_title">Couldn\'t load this page</string>
+    <string name="album_empty_title">No songs available</string>
+    <string name="album_empty_hint">These songs aren\'t available right now.</string>
+    <string name="section_popular">Popular</string>
+    <string name="section_albums">Albums</string>
+
+    <string name="library_create">Create playlist</string>
+    <string name="playlist_create_title">Name your playlist</string>
+    <string name="playlist_name_label">Playlist name</string>
+    <string name="playlist_create_confirm">Create</string>
+    <string name="playlist_create_cancel">Cancel</string>
+    <string name="playlist_create_failed">Couldn\'t create the playlist. Try again.</string>
+    <string name="playlist_empty_title">This playlist is empty</string>
+    <string name="playlist_empty_hint">Add songs from search, or from the menu on any song.</string>
+
+    <string name="track_more">More options for %1$s</string>
+    <string name="menu_add_queue">Add to queue</string>
+    <string name="menu_add_playlist">Add to playlist</string>
+    <string name="menu_go_album">Go to album</string>
+    <string name="menu_go_artist">Go to artist</string>
+    <string name="msg_added_queue">Added to queue</string>
+    <string name="msg_added_to_playlist">Added to %1$s</string>
+    <string name="msg_already_in_playlist">Already in %1$s</string>
+    <string name="msg_playlist_failed">Couldn\'t add the song. Try again.</string>
+    <string name="sheet_new_playlist">New playlist</string>
+    <string name="sheet_no_playlists_title">No playlists yet</string>
+    <string name="sheet_no_playlists_hint">Create one to start collecting songs.</string>
+
+    <plurals name="songs_count">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+</resources>
